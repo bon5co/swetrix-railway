@@ -1,5 +1,9 @@
 # swetrix-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/swetrix-ce-v531-or-google-analytics-alte?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Swetrix CE template](https://railway.com/deploy/swetrix-ce-v531-or-google-analytics-alte?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Railway-tuned images for [Swetrix Community Edition](https://github.com/Swetrix/swetrix) v5.3.1 —
 the privacy-first, cookieless Google Analytics alternative.
 
